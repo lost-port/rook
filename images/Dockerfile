@@ -1,9 +1,0 @@
-from rook/ceph:v1.7.6
-from quay.io/cephcsi/cephcsi:v3.4.0
-from k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.3.0
-from k8s.gcr.io/sig-storage/csi-resizer:v1.3.0
-from k8s.gcr.io/sig-storage/csi-provisioner:v3.0.0
-from k8s.gcr.io/sig-storage/csi-snapshotter:v4.2.0
-from k8s.gcr.io/sig-storage/csi-attacher:v3.3.0
-from quay.io/csiaddons/volumereplication-operator:v0.1.0
-from quay.io/ceph/ceph:v16.2.6
